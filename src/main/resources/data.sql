@@ -1,3 +1,4 @@
+-- User: admin , pass: admin
 insert into Usuario(user_name, encrypted_password)
 values ('admin','$2a$10$wgSabwrLSluanBZNCiXZZ.IMKCtm5PddsIwL9evYqDEdYm/LyBwlS');
 
